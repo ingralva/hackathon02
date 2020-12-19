@@ -1,0 +1,1 @@
+#METODOS DEL APP
